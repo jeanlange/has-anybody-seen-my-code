@@ -20,3 +20,6 @@ EJBs, entities, but Spring DI got in my way
 But now I know, that for sure,
 Ruby is my Java cure.
 Has anybody seen my code?
+
+
+(view as raw for aligned chords)
