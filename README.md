@@ -23,3 +23,5 @@ Has anybody seen my code?
 
 
 (view as raw for aligned chords)
+
+See a video recording at https://www.youtube.com/watch?v=vKrr7aXUc1E
